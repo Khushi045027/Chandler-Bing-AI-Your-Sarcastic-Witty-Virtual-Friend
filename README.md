@@ -4,6 +4,7 @@ Chandler Bing AI is an AI-powered conversational model that channels the sarcasm
 
 # Model
 Base Model: Llama3.2:latest
+
 Platform: [Chandler-Bing-A](https://openwebui.com/m/khushirg/chandler-bing)
 
 Model Type: Large Language Model (LLM) optimized for conversational humor and sarcasm
