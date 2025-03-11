@@ -94,6 +94,11 @@ Could you BE any more Chandler?
 
 ## Conversation Video
 
+
+https://github.com/user-attachments/assets/ee4b9ee9-1338-478d-bb8e-f1fccdae93ec
+
+
+
 ## Learnings:
 - Language Patterns: The model has been trained to replicate Chandler’s speech style, including sarcasm, rhetorical questions, and witty comebacks.
 - Context Awareness: It understands modern social situations and can apply Chandler’s humor to topics like relationships, career struggles, and technology.
